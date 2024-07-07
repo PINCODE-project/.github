@@ -10,5 +10,4 @@
 - **Галимзянов Айнур** - Backend Developer
 - **Максим Рожков** — Frontend Tech Lead
 - **Ирина Туманова** — Frontend Developer
-- **Квашин Тимур** - Python Developeк
 - **Коптелова Алина** - UI/UX Designer

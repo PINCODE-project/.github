@@ -11,3 +11,4 @@
 - **Максим Рожков** — Frontend Tech Lead
 - **Ирина Туманова** — Frontend Developer
 - **Коптелова Алина** - UI/UX Designer
+- **Квашин Тимур** - QA engineer
